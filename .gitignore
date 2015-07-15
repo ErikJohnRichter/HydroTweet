@@ -1,0 +1,17 @@
+hydro-test-file.py
+authKeys.py
+*.pyc
+*.py~
+=======
+logs/*
+.DS_Store
+lib/*
+bin/*
+plugins/*
+__pycache__/*
+.Python
+include/
+share/
+*.pyc
+*.log
+*.swp
